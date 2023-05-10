@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "card_name": "Dark Magician",
+      "card_image": "https://uploads2.yugioh.com/card_images/257/detail/Dark-Magician.jpg?1375127294",
+      "description": "The ultimate wizard in terms of attack and defense."
+    },
+    {
+      "id": 3,
+      "card_name": "Palladium Oracle Mahad",
+      "card_image": "https://i.pinimg.com/736x/b1/01/de/b101de135630dbb43c3258f7322666a3.jpg",
+      "description": "When you draw this card: You can reveal this card; Special Summon it from your hand. If this card battles a DARK monster, its ATK is doubled during the Damage Step only. If this card is destroyed by battle or card effect: You can Special Summon 1 'Dark Magician' from your hand, Deck, or Graveyard."
+    },
+    {
+      "id": 4,
+      "card_name": "Magician's Valkyria",
+      "card_image": "https://uploads3.yugioh.com/card_images/1141/detail/1255.jpg?1385099128",
+      "description": "Monsters your opponent controls cannot target face-up Spellcaster-Type monsters for attacks, except this one."
+    },
+    {
+      "id": 5,
+      "card_name": "The Dark Magicians",
+      "card_image": "https://i.pinimg.com/originals/fc/bb/3b/fcbb3bfd41812aa03543e63dd844d102.png",
+      "description": "'Dark Magician' or 'Dark Magician Girl' + 1 Spellcaster monster. Once per turn, if a Spell/Trap Card or effect is activated (except during the Damage Step): You can draw 1 card, then if it was a Spell/Trap, you can Set it, and if it was a Trap or Quick-Play Spell, you can activate it this turn. If this card is destroyed: You can Special Summon both 1 'Dark Magician' and 1 'Dark Magician Girl' from your hand, Deck, and/or GY."
+    },
+    {
+      "card_name": "Apprentice Illusion Magician",
+      "card_image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/03b5a34c-d066-4223-ae94-21c906adb0bc/dbgit6w-e4df5f30-e7c4-4677-904e-1ed21f77daee.jpg/v1/fill/w_800,h_800,q_75,strp/apprentice_illusion_magician__artwork__by_holycrapwhitedragon_dbgit6w-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvMDNiNWEzNGMtZDA2Ni00MjIzLWFlOTQtMjFjOTA2YWRiMGJjXC9kYmdpdDZ3LWU0ZGY1ZjMwLWU3YzQtNDY3Ny05MDRlLTFlZDIxZjc3ZGFlZS5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.f5M4QGoic6cOcz74mb1PJXzxgrX1Gtw9ANW4Do9fReU",
+      "description": "You can Special Summon this card (from your hand) by discarding 1 card. If this card is Normal or Special Summoned: You can add 1 \"Dark Magician\" from your Deck to your hand. During damage calculation, if your other DARK Spellcaster monster battles an opponent's monster (Quick Effect): You can send this card from your hand or face-up field to the GY; that monster you control gains 2000 ATK/DEF during that damage calculation only.",
+      "id": 6
+    }
+  ]
+}
